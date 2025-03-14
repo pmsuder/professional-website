@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Piotr M Suder
+title: Piotr M. Suder
 
 # Full name (for SEO)
 first_name: Piotr
